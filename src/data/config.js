@@ -34,7 +34,7 @@ export const siteConfig = {
       title: "Pinnacle",
       description: "A full-stack accounting service application connected to a MongoDB Atlas cluster, featuring custom CORS handling and cloud deployment.",
       techStack: ["React", "Node.js", "Express", "MongoDB", "Vercel"],
-      liveUrl: "https://pinnacle-frontend-gamma.vercel.app/",
+      liveUrl: "",
       githubFrontend: "https://github.com/chetanschetan/pinnacle-frontend",
       githubBackend: "https://github.com/chetanschetan/pinnacle-backend",
     },
